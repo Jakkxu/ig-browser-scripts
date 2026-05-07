@@ -19,8 +19,9 @@ Simple browser console scripts for Instagram Web.
 2. Go to your profile
 3. Press `F12`
 4. Open the `Console` tab
-5. Paste the script
-6. Press `Enter`
+5. Paste `allow pasting`
+6. Paste the script
+7. Press `Enter`
 
 The script will automatically:
 
